@@ -17,4 +17,12 @@ After conducting the interviews/pre-sales meeting with the stakeholders the foll
 2. Employees frustrations: The onboarding process for new clients is inconsistent among all the employees.
 3. Customers frustrations: The onboarding process is difficult to follow as well is it's not that simple and it's hard to fill out all the things with multiple information.
 
+#4. Broken Down Requirements
+### 1. Employee Onboarding System
+1. Standardized training program: This is to ensure the consistency and reduce the learning curve for the new hire which can easily access all the things about the traning process and can help them to train easily.
+2. Digital documentation process: This is to make sure all the documentation of the employees are done on ease way as well as to keep all the record of the documents as well as the important information which the company needs as well as they can easily retrieval of employee details whenever  needed.
+3. Role-based access: The role based access control is for the new hires to ensure secure access to relevant resources which they can use or follow or view only the information they need to access.
+4. Automated progress: This will help the company for tracking and reporting to monitor onboarding status and optimize training timelines of the customer and make it more user friendly.
 
+
+### 2. Client Onboarding Process
