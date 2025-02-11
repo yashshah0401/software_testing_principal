@@ -26,3 +26,12 @@ After conducting the interviews/pre-sales meeting with the stakeholders the foll
 
 
 ### 2. Client Onboarding Process
+1. Unified workflow for all employees: There will be a Unified workflow for all employees which will help to eliminate inconsistencies and improve process efficiency between the workflow of the company.
+2. Automated data collection and validation: We will automate the data collection and validation which will help to minimize the errors and enhance data accuracy of the client.
+3. User-friendly interface for customers: There will be User-friendly interface for the customers to facilitate the smooth navigation and intuitive interactions between the pages of the software as well as all the processes which they will go through the system.
+4. Self-service portal for customers to fill in basic details: Self-service portal for customers to fill in all the basic details, reducing manual workload for employees.
+
+
+### 3. Streamlining Operations
+1. Reduce onboarding time for employees and customers: Reduce the onboarding time for all the employees and the customers throughout the workflow optimization and automation which will help them to quickly complete the process so they cannot wait for the more then the 3 months of time.
+2. 
