@@ -55,7 +55,7 @@ After conducting the interviews/pre-sales meeting with the stakeholders the foll
 3. What level of automation is acceptable for onboarding workflows?
 4. Are there any third-party integrations required (e.g., payroll, CRM, scheduling)?
 
-## Follow-up Clarification Questions
+### Follow-up Clarification Questions
 1. Can you provide specific examples of delays in employee onboarding?
 2. What kind of training materials do you currently use?
 3. Are there any security concerns regarding customer or pet data?
