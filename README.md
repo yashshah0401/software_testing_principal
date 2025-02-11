@@ -12,6 +12,9 @@ The document defines preparation steps for the first client encounter with a Pet
 
 This document will serve as a structured preparation guide for the upcoming client meeting.
 
+### Direct Git URLs
+- **Repository URL:** [GitHub Repository](https://github.com/yashshah0401/software_testing_principal)
+
 ## Setup Instructions
 1. Clone the repository:
    ```sh
