@@ -34,4 +34,31 @@ After conducting the interviews/pre-sales meeting with the stakeholders the foll
 
 ### 3. Streamlining Operations
 1. Reduce onboarding time for employees and customers: Reduce the onboarding time for all the employees and the customers throughout the workflow optimization and automation which will help them to quickly complete the process so they cannot wait for the more then the 3 months of time.
-2. 
+2. Ensure consistency in data handling: Need to ensure consistency in data handling which are provided by standardizing processes and integrating a centralized database where they can access all the data.
+3. Improve overall user experience: Need to improve overall user experience by simplifying the processes and incorporating the user feedback.
+
+## Questions & Knowledge to Expose
+### General Questions
+1. What are the key steps in the current employee onboarding process?
+2. What documentation or tools are currently used for training?
+3. How do different employees currently process client onboarding?
+4. What information is required from new customers during onboarding?
+5. What common issues do employees and customers report?
+6. What is the preferred method of communication for clients and staff?
+7. What budget is allocated for onboarding process improvement?
+8. What is the expected return on investment (ROI) for optimizing the onboarding workflow?
+9. What specific steps in the employee onboarding process take the longest?
+
+### Technical Questions
+1. Do you have an existing digital system for tracking employee/client information?
+2. Are there compliance or regulatory requirements for handling pet-related data?
+3. What level of automation is acceptable for onboarding workflows?
+4. Are there any third-party integrations required (e.g., payroll, CRM, scheduling)?
+
+## Follow-up Clarification Questions
+1. Can you provide specific examples of delays in employee onboarding?
+2. What kind of training materials do you currently use?
+3. Are there any security concerns regarding customer or pet data?
+4. Do you foresee integrating the new system with existing software?
+5. What KPIs do you use to measure onboarding efficiency?
+6. What are the major risks or challenges foreseen with implementing a new system?
