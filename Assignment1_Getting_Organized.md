@@ -39,26 +39,36 @@ After conducting the interviews/pre-sales meeting with the stakeholders the foll
 
 ## Questions & Knowledge to Expose
 ### General Questions
-1. What are the key steps in the current employee onboarding process?
-2. What documentation or tools are currently used for training?
+1. What are the key steps for the current employee for the onboarding process?
+2. What are the documentation or the tools which are currently used for training?
 3. How do different employees currently process client onboarding?
-4. What information is required from new customers during onboarding?
-5. What common issues do employees and customers report?
-6. What is the preferred method of communication for clients and staff?
-7. What budget is allocated for onboarding process improvement?
-8. What is the expected return on investment (ROI) for optimizing the onboarding workflow?
-9. What specific steps in the employee onboarding process take the longest?
+4. What information are required from new customers during onboarding?
+5. What are the common issues do employees and customers report?
+6. What is the preferred method of communication between the clients and staff?
+7. What specific steps in the employee onboarding process take the longest to complete?
 
 ### Technical Questions
 1. Do you have an existing digital system for tracking employee/client information?
-2. Are there compliance or regulatory requirements for handling pet-related data?
-3. What level of automation is acceptable for onboarding workflows?
+2. Are there any compliance or regulatory requirements for handling pet-related data?
+3. What level of automation is acceptable for onboarding workflows (So that we can think about the technology which we can use for the developmemt)?
 4. Are there any third-party integrations required (e.g., payroll, CRM, scheduling)?
 
 ### Follow-up Clarification Questions
 1. Can you provide specific examples of delays in employee onboarding?
 2. What kind of training materials do you currently use?
 3. Are there any security concerns regarding customer or pet data?
-4. Do you foresee integrating the new system with existing software?
+4. Do you foresee integrating the new system with existing software and the current system is build in which technology and could you please share the all the access or the test or stage env to access to platform?
 5. What KPIs do you use to measure onboarding efficiency?
-6. What are the major risks or challenges foreseen with implementing a new system?
+6. What are the major risks or challenges that will implementing a new system?
+
+## Preliminary Tasks
+1. Research on the existing onboarding solutions for similar businesses as well as current.
+2. Identify all the key bottlenecks in the current workflows.
+3. Develop a standardized client intake form which will help to get all the details.
+4. Design a structured of the training module for new employees with the UML Diagrams.
+5. Create a balsamiq mockup of the onboarding interface.
+6. Plan for the system development as well as integration and all the security considerations.
+7. Define the success metrics for improvement which can be made during the development phase.
+8. Conduct a risk assessment and mitigation strategy to improve the process and making sure that all the risks are avoided.
+9. Map all the key stakeholders and their roles in the onboarding process.
+10. Develop an initial process workflow diagram for better understanding the process/project.
