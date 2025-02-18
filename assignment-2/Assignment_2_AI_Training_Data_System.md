@@ -1,5 +1,10 @@
 # Assignment #2: AI Training Data System
 
+# Shah, Yash Ketanbhai
+# 8990493
+# Software Engineering Principles
+# SENG8091 - Winter 2025 - Section 1
+
 ---
 
 ## Purpose
