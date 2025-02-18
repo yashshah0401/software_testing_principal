@@ -59,10 +59,18 @@ The client is an AI developer who is using the publicly available data for AI tr
 	- **Example:** Role-based access control (RBAC) limiting editing privileges to authorized users.
 
 ## 2. Assumptions & Validation
-### **Assumptions**  
+### **Assumptions**
 
 1. The client has access to all the publicly available data that complies with ethical and legal regulations.
 2. Bias detection can be improved using existing open-source AI fairness tools.
 3. Developers require a UI/UX interface for categorization and validation.
 4. The AI developer's primary focus is on improving training data quality rather than model tuning.
 5. The client’s team has expertise in using cloud storage solutions.
+
+### **Validation Plan**
+1. Regular feedback sessions with the client to confirm requirement alignment.
+2. Prototype demonstrations to validate user interactions.
+3. Testing against real-world datasets to ensure bias detection accuracy.
+4. Performance benchmarks to confirm system scalability and efficiency.
+5. Review a sample of 500 scraped entries with the client to confirm accurate Q&A separation.
+6. Demonstrate scraping from 3+ websites (e.g., Reddit, Wikipedia) during a client demo.
