@@ -66,16 +66,44 @@ The client is an AI developer who is using the publicly available data for AI tr
 ## 2. Assumptions & Validation
 ### **Assumptions**
 
-1. The client has access to all the publicly available data that complies with ethical and legal regulations.
-2. Bias detection can be improved using existing open-source AI fairness tools.
-3. Developers require a UI/UX interface for categorization and validation.
-4. The AI developer's primary focus is on improving training data quality rather than model tuning.
-5. The client’s team has expertise in using cloud storage solutions.
+## 1. Assumptions
 
-### **Validation Plan**
-1. Regular feedback sessions with the client to confirm requirement alignment.
-2. Prototype demonstrations to validate user interactions.
-3. Testing against real-world datasets to ensure bias detection accuracy.
-4. Performance benchmarks to confirm system scalability and efficiency.
-5. Review a sample of 500 scraped entries with the client to confirm accurate Q&A separation.
-6. Demonstrate scraping from 3+ websites (e.g., Reddit, Wikipedia) during a client demo.
+- **Categorized Training Questions**
+	- Assumes that the developers will correctly label all the questions and answers for proper categorization.
+	- Assumes that the stored questions and answers will be used for AI training models with minimal human intervention.
+	- Assumes that the developers need a structured approach to review and validate categorized data.
+
+- **Balanced Training Data**
+	- Assumes that the system can be analyze datasets for bias with predefined metrics.
+	- Assumes that the AI fairness and accuracy are impacted by imbalanced training data.
+	- Assumes that the bias detection reports will guide dataset improvements.
+
+- **Data Verification and Modification**
+	- Assumes that the developers will need a user interface to manually adjust categorization.
+	- Assumes that the dataset modification improves model accuracy.
+	- Assumes that the real-time modifications will be reflected in the final dataset.
+
+- **Data Format Support**
+	- Assumes that the different AI models require multiple data formats (JSON, CSV, etc.).
+	- Assumes the that system should be enable seamless export and conversion options.
+	- Assumes that the developers require structured data formats for model compatibility.
+
+- **Web Scraping Integration**
+	- Assumes that the publicly available data can be legally scraped for training purposes.
+	- Assumes that the developers require flexibility in configurable data sources.
+	- Assumes that the third-party tools like **Scrapy** can facilitate data extraction.
+
+- **Bias Detection Module**
+	- Assumes that the bias computation must be completed within 10 minutes.
+	- Assumes that the developers require real-time feedback on dataset distribution.
+	- Assumes that the statistical libraries (Pandas, NumPy) will be effective for bias analysis.
+
+- **API Integration**
+	- Assumes that the other AI training tools will integrate with the provided API.
+	- Assumes that the a RESTful API will be sufficient for querying categorized data.
+	- Assumes that the seamless data retrieval is essential for interoperability.
+
+- **Security and Access Control**
+	- Assumes that the role-based access control (RBAC) will ensure data integrity.
+	- Assumes that the different user roles require varying access permissions.
+	- Assumes that the unauthorized modifications must be prevented.
