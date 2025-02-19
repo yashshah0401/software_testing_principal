@@ -107,3 +107,15 @@ The client is an AI developer who is using the publicly available data for AI tr
 	- Assumes that the role-based access control (RBAC) will ensure data integrity.
 	- Assumes that the different user roles require varying access permissions.
 	- Assumes that the unauthorized modifications must be prevented.
+
+## 2. Validation Plan
+
+| Requirement | Validation Method |
+1. | Categorized Training Questions | Review the labeled datasets for the consistency & correctness of the question.|
+2. | Balanced Training Data | Generate and analyze the bias reports using AI models.|
+3. | Data Verification and Modification | Test the UI functionality for the manual categorization updates.|
+4. | Data Format Support | Export the datasets in JSON and CSV, test compatibility.|
+5. | Web Scraping Integration | Scrape public data sources, validate dataset integrity.|
+6. | Bias Detection Module | Run the statistical bias checks within time constraints.|
+7. | API Integration | Test API endpoints for data retrieval and format accuracy.|
+8. | Security and Access Control | Conduct the access control tests with the test cases for the authorized user roles.|
