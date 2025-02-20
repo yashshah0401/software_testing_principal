@@ -119,3 +119,111 @@ The client is an AI developer who is using the publicly available data for AI tr
 6. | Bias Detection Module | Run the statistical bias checks within time constraints.|
 7. | API Integration | Test API endpoints for data retrieval and format accuracy.|
 8. | Security and Access Control | Conduct the access control tests with the test cases for the authorized user roles.|
+
+---
+
+# User Stories & Tasks
+
+## 1. Categorized Training Questions
+**User Story:** As a developer, I should be able to categorize training questions and answers separately so that I can validate them independently.
+
+### Tasks:
+- Develop a database schema to separate questions and answers.
+- Implement tagging functionality for categorization.
+- Build an interface to allow manual question validation.
+
+### Solution:
+- Use relational database structure with separate tables for questions and answers.
+- Implement a tagging with metadata labels.
+- Develop a UI for manual categorization and validation.
+
+## 2. Balanced Training Data
+**User Story:** As a data scientist, I should be able to generate balance reports to detect biases so that I can improve dataset fairness.
+
+### Tasks:
+- Implement statistical analysis for dataset distribution.
+- Generate bias reports with visual indicators.
+- Provide suggestions for balancing dataset.
+
+### Solution:
+- Use Pandas and NumPy for statistical analysis.
+- Create dashboard visualizations for bias reporting.
+- Implement automated rebalancing suggestions based on thresholds.
+
+## 3. Data Verification and Modification
+**User Story:** As a developer, I should be able to verify and modify training data so that I can ensure accuracy before model training.
+
+### Tasks:
+- Design a UI for developers to review data categorization.
+- Implement real-time modification options.
+- Enable version control for data changes.
+
+### Solution:
+- Create a React-based UI for reviewing categorized data.
+- Use database transactions to store modifications.
+- Implement Git-based version tracking for historical changes.
+
+## 4. Data Format Support
+**User Story:** As a machine learning engineer, I should be able to export categorized data in multiple formats so that I can integrate it with AI models.
+
+### Tasks:
+- Develop export functions for JSON and CSV.
+- Provide UI options to choose export format.
+- Validate exported files for format accuracy.
+
+### Solution:
+- Use Python’s Pandas library to generate structured exports.
+- Provide dropdown selection for format choice in UI.
+- Implement automated validation scripts to check file integrity.
+
+## 5. Web Scraping Integration
+**User Story:** As a researcher, I should be able to scrape public domain data so that I can gather diverse training examples.
+
+### Tasks:
+- Configure Scrapy to extract relevant Q&A pairs.
+- Implement pipeline for processing scraped data.
+- Ensure scraped data adheres to categorization standards.
+
+### Solution:
+- Use Scrapy spiders to collect Q&A pairs.
+- Process data with NLP filtering to remove irrelevant content.
+- Store cleaned data in pre-defined categories.
+
+## 6. Bias Detection Module
+**User Story:** As an AI analyst, I should be able to detect biases in my training data so that I can adjust the dataset accordingly.
+
+### Tasks:
+- Develop bias detection algorithms.
+- Automate report generation within time constraints.
+- Provide visual indicators for bias distribution.
+
+### Solution:
+- Use Pandas and NumPy for bias computation.
+- Automate report generation with scheduled batch processing.
+- Implement data visualizations in Matplotlib.
+
+## 7. API Integration
+**User Story:** As a developer, I should be able to access categorized training data via API so that I can integrate it with my AI models.
+
+### Tasks:
+- Develop RESTful API endpoints.
+- Implement authentication for API access.
+- Test API response times and data accuracy.
+
+### Solution:
+- Use Flask/Django REST framework to develop API endpoints.
+- Implement OAuth2 for secure access.
+- Optimize queries for fast API responses.
+
+## 8. Security and Access Control
+**User Story:** As a security administrator, I should be able to control access to training data so that unauthorized modifications are prevented.
+
+### Tasks:
+- Implement role-based access control (RBAC).
+- Develop logging for access tracking.
+- Encrypt sensitive training data.
+
+### Solution:
+- Use JWT-based authentication for role enforcement.
+- Implement logging with ELK stack (Elasticsearch, Logstash, Kibana).
+- Encrypt stored data using AES-256.
