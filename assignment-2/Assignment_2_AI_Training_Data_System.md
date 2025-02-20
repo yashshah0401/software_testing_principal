@@ -227,3 +227,9 @@ The client is an AI developer who is using the publicly available data for AI tr
 - Use JWT-based authentication for role enforcement.
 - Implement logging with ELK stack (Elasticsearch, Logstash, Kibana).
 - Encrypt stored data using AES-256.
+
+
+# References
+
+1. **Bishop, C. M. (2006). *Pattern Recognition and Machine Learning. *Springer.**
+   - [https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
