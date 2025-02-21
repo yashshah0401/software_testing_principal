@@ -108,7 +108,7 @@ The client is an AI developer who is using the publicly available data for AI tr
 	- Assumes that the different user roles require varying access permissions.
 	- Assumes that the unauthorized modifications must be prevented.
 
-## 2. Validation Plan
+## 2.1 Validation Plan
 
 | Requirement | Validation Method |
 1. | Categorized Training Questions | Review the labeled datasets for the consistency & correctness of the question.|
@@ -122,7 +122,7 @@ The client is an AI developer who is using the publicly available data for AI tr
 
 ---
 
-# User Stories & Tasks
+## 3 User Stories & Tasks
 
 ## 1. Categorized Training Questions
 **User Story:** As a developer, I should be able to categorize training questions and answers separately so that I can validate them independently.
