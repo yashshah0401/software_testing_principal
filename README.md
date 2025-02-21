@@ -6,6 +6,11 @@ Welcome to the Software Testing Principal repository! This repository contains a
 
 The document defines preparation steps for the first client encounter with a Pet Daycare business. Software development requires identification of critical problems and breakdown of essential requirements to achieve effective development results.
 
+### Assignment #2: AI Training Data System
+This assignment explores the organization and verification of AI training datasets. It focuses on ensuring data integrity, preprocessing methodologies, and validation techniques to maintain high-quality AI model training.
+
+Repository Link: [Assignment 2](https://github.com/yashshah0401/software_testing_principal/tree/main/assignment-2)
+
 ## Submission Details
 - **Format**: This document is in Markdown format for development-friendly usage.
 - **Git Commit Requirement**: Ensure that all changes and progress are documented in the assigned repository.
