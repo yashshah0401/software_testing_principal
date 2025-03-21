@@ -15,10 +15,17 @@ This project focuses on organizing and optimizing AI training data for accuracy,
 
 **Installation & Setup**
 
+**Installation & Setup**
+
 1. **Clone the Repository**
+   ```sh
+   git clone git@github.com:yashshah0401/software_testing_principal.git
+   cd software_testing_principal
+
 2. **Set Up Virtual Environment** (Optional but Recommended)
 3. **Install Dependencies**
 4. **Run the Application**
+
 
 **Project Structure**
 
